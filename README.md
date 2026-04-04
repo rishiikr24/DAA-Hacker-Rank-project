@@ -93,3 +93,6 @@ all), and mixed arrays (both records may break multiple times).
 Finally, the program returns and prints an array of two values — the number of best record
 breaks at index 0, and the number of worst record breaks at index 1. The time complexity is
 O(n) and the space complexity is O(1).
+
+Hope you find this usefull
+
